@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-notary-dev-102542-authRole",
+      "UnauthRoleArn": "arn:aws:iam::145565957941:role/amplify-notary-dev-102542-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::145565957941:role/amplify-notary-dev-102542-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-notary-dev-102542-deployment",
+      "UnauthRoleName": "amplify-notary-dev-102542-unauthRole",
+      "StackName": "amplify-notary-dev-102542",
+      "StackId": "arn:aws:cloudformation:us-east-1:145565957941:stack/amplify-notary-dev-102542/0a9c5a60-90a3-11eb-995e-12312be5d5ed",
+      "AmplifyAppId": "d3nm6frqku0mtj"
+    }
+  }
+}
